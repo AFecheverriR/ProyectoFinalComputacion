@@ -1,1 +1,1 @@
-<iframe width="1406" height="791" src="https://www.youtube.com/embed/TgpTxvy3n2U" title="Proyecto Final Computacion Grafica Andrés Felipe Echeverri Riaño" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![](https://markdown-videos.delta.dev/youtube/TgpTxvy3n2U)](https://youtu.be/TgpTxvy3n2U?si=4UAZI7DNyxm7-Qgy)
