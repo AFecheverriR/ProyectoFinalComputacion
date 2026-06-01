@@ -1,0 +1,4 @@
+﻿  Main.cpp
+G:\Universidad\Computacion\Project1\Project1\Main.cpp(188,26): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+G:\Universidad\Computacion\Project1\Project1\Main.cpp(193,28): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  Project1.vcxproj -> G:\Universidad\Computacion\Project1\x64\Debug\Project1.exe

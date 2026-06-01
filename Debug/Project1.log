@@ -1,0 +1,9 @@
+﻿  EBO.cpp
+D:\Universidad\Computacion\Project1\Project1\EBO.h(4,10): fatal error C1083: No se puede abrir el archivo incluir: 'glad/glad.h': No such file or directory
+  shaderClass.cpp
+D:\Universidad\Computacion\Project1\Project1\shaderClass.h(4,9): fatal error C1083: No se puede abrir el archivo incluir: 'glad/glad.h': No such file or directory
+  VAO.cpp
+D:\Universidad\Computacion\Project1\Project1\VAO.h(4,10): fatal error C1083: No se puede abrir el archivo incluir: 'glad/glad.h': No such file or directory
+  VBO.cpp
+D:\Universidad\Computacion\Project1\Project1\VBO.h(4,10): fatal error C1083: No se puede abrir el archivo incluir: 'glad/glad.h': No such file or directory
+  Generando código...
